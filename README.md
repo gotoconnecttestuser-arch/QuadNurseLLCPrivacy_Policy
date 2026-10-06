@@ -52,6 +52,12 @@ Message and data rates may apply depending on your mobile carrier and plan.
 Information Sharing
 Quad Nurse LLC does not sell, rent, or share your mobile information with third parties or affiliates for marketing or promotional purposes. We may share information with service providers solely for the purpose of delivering SMS communications and operating our business services.
 
+Consumer Data Sharing
+Consumer data, including mobile information, is not transferred or shared with external organizations under any circumstances.
+
+Limited Exception for SMS Delivery
+The only exception is when disclosure is strictly necessary for SMS delivery by contracted processors acting on the provider’s behalf and not for their own use.
+
 Data Security
 We maintain reasonable administrative, technical, and physical safeguards designed to protect your personal information from unauthorized access, use, or disclosure.
 
